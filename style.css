@@ -4,7 +4,7 @@
 }
 .topnav a {
   float: left;
-  color: #09C8FE;
+  color: #000000;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
@@ -15,23 +15,27 @@
   color: black;
 }
 a:link {
-  color: #09C8FE; 
+  color: #000000; 
   background-color: transparent; 
   text-decoration: none;
 }
 a:visited {
-  color: #09C8FE;
+  color: #000000;
   background-color: transparent;
   text-decoration: none;
 }
 a:hover {
-  color: #09C8FE;
+  color: #000000;
   background-color: transparent;
   text-decoration: underline;
 }
 
 a:active {
-  color: #09C8FE;
+  color: #000000;
   background-color: transparent;
   text-decoration: underline;
 }
+html {
+  background-color: #000000;
+  font-family: sans-serif;
+  
